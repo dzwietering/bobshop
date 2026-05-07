@@ -7,9 +7,9 @@
 
 ### 1 Week Before
 - [ ] Send workshop invitation with prerequisites
-- [ ] Share installation instructions for VS Code and Bob
+- [ ] Ensure participants have Bob AI assistant access
 - [ ] Request participants test their setup
-- [ ] Prepare backup environment (cloud IDE if needed)
+- [ ] Prepare backup environment if needed
 
 ### 1 Day Before
 - [ ] Test all exercises in a fresh environment
@@ -357,9 +357,9 @@ A: Practice! The more you use it, the better you'll get at communicating your ne
 
 **Issue: Bob isn't responding**
 - Check internet connection
-- Restart VS Code
-- Verify Bob extension is active
-- Check for error messages in output panel
+- Refresh the Bob interface
+- Verify Bob is active
+- Check for error messages
 
 **Issue: Generated code has errors**
 - Ask Bob to fix: "There's an error on line X, please fix it"
@@ -372,9 +372,9 @@ A: Practice! The more you use it, the better you'll get at communicating your ne
 - Ask Bob to move files if needed
 
 **Issue: Mode switching not working**
-- Refresh VS Code
+- Refresh the interface
 - Check mode selector visibility
-- Use command palette as backup
+- Try clicking the mode icon directly
 
 ### Participant Issues
 
@@ -491,7 +491,7 @@ After each workshop, reflect on:
 
 **Technical Issues:**
 - Bob support: [support contact]
-- VS Code help: [help resources]
+- Technical help: [help resources]
 
 **Content Questions:**
 - Workshop creator: [contact info]

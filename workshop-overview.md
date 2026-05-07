@@ -17,7 +17,7 @@
 │ TARGET AUDIENCE                                                │
 ├────────────────────────────────────────────────────────────────┤
 │ • Intermediate developers                                      │
-│ • Familiar with VS Code                                        │
+│ • Familiar with code editors                                   │
 │ • Basic programming knowledge                                  │
 │ • New to AI-assisted development                               │
 └────────────────────────────────────────────────────────────────┘

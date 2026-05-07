@@ -5,9 +5,9 @@
 
 ## 🎯 Workshop Overview
 
-**Duration:** 45 minutes  
-**Level:** Intermediate developers  
-**Prerequisites:** Basic programming knowledge, VS Code installed
+**Duration:** 45 minutes
+**Level:** Intermediate developers
+**Prerequisites:** Basic programming knowledge, Bob AI assistant access
 
 ### Learning Objectives
 
@@ -37,7 +37,7 @@ By the end of this workshop, you will be able to:
 
 ### What is Bob?
 
-Bob is an AI-powered coding assistant that works directly in VS Code. Think of Bob as your intelligent pair programmer who can:
+Bob is an AI-powered coding assistant. Think of Bob as your intelligent pair programmer who can:
 - Write and edit code across multiple files
 - Debug and refactor existing code
 - Plan complex projects before implementation

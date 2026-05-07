@@ -288,8 +288,8 @@ Switch to ❓ Ask Mode when you want to:
 
 ### Bob isn't responding
 - Check internet connection
-- Restart VS Code
-- Verify Bob extension is active
+- Refresh the Bob interface
+- Verify Bob is active
 
 ### Code has errors
 ```

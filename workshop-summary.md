@@ -139,11 +139,11 @@ You now have a complete, professional workshop package for teaching new Bob user
 
 **Before Workshop:**
 ```
-□ Install VS Code
-□ Install Bob extension
+□ Ensure Bob AI assistant access
 □ Test Bob works
 □ Review prerequisites
 □ Prepare questions
+□ Familiarize with Bob interface
 ```
 
 **During Workshop:**
@@ -479,8 +479,8 @@ Participants will:
 - [ ] Backup examples prepared
 
 **Environment Setup:**
-- [ ] VS Code installed
-- [ ] Bob extension working
+- [ ] Bob AI assistant access verified
+- [ ] Bob working properly
 - [ ] Screen sharing tested
 - [ ] Recording ready (if applicable)
 

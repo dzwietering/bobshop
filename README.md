@@ -93,10 +93,10 @@ Wrap-up & Q&A (2 min)
 ### Prerequisites
 
 - **Required:**
-  - VS Code installed
-  - Bob extension installed and configured
+  - Bob AI assistant access
   - Basic programming knowledge
   - Internet connection
+  - Code editor of your choice
 
 - **Recommended:**
   - Familiarity with JavaScript
@@ -105,24 +105,18 @@ Wrap-up & Q&A (2 min)
 
 ### Setup Instructions
 
-1. **Install VS Code**
-   - Download from [code.visualstudio.com](https://code.visualstudio.com/)
-   - Install for your operating system
+1. **Access Bob**
+   - Ensure you have Bob AI assistant available
+   - Familiarize yourself with the interface
 
-2. **Install Bob Extension**
-   - Open VS Code
-   - Go to Extensions (Ctrl/Cmd + Shift + X)
-   - Search for "Bob"
-   - Click Install
-
-3. **Verify Installation**
+2. **Verify Access**
    - Open Bob interface
    - Test switching between modes
    - Ensure you can send requests
 
-4. **Download Workshop Materials**
+3. **Download Workshop Materials**
    - Clone or download this repository
-   - Open the workshop folder in VS Code
+   - Open the workshop folder in your code editor
    - Review the workshop-guide.md
 
 ---
